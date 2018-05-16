@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 이 포스트에 관해
 permalink: /about/
 ---
 
